@@ -20,6 +20,6 @@ You can continue to enter calculations until you are finished.
 
 # Acknowledgment
 
-Stackoverflow 
+Stackoverflow, 
 Related blogs 
 etc
