@@ -2,11 +2,11 @@
 
 This is a simple calculator program written in Python. It can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-Installation
+# Installation
 
 To use this calculator, you need to have Python 3 installed on your computer. You can download Python from the official website at https://www.python.org/downloads/.
 
-Usage
+# Usage
 
 To run the calculator, open a terminal or command prompt and navigate to the directory where the program is located. Then type the following command:
 
@@ -17,3 +17,9 @@ This will start the program and display a simple interface. To perform a calcula
 
 
 You can continue to enter calculations until you are finished.
+
+# Acknowledgment
+
+Stackoverflow 
+Related blogs 
+etc
